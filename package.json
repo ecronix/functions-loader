@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ecronix/functions-loader/issues"
   },
-  "homepage": "https://github.com/ecronix/functions-loader#readme"
+  "homepage": "https://github.com/ecronix/functions-loader#readme",
+  "dependencies": {
+  
+  }
 }

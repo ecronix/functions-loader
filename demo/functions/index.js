@@ -1,3 +1,3 @@
-const { loadFunctions } = require("firebase-function-tools-preview");
+const { loadFunctions } = require("functions-loader");
 
 loadFunctions(__dirname, exports, true);
