@@ -1,0 +1,7 @@
+const { onCall } = require("firebase-functions/v2/https");
+const logger = require("firebase-functions/logger");
+
+module.exports = onCall((request, response) => {
+  logger.info("Hello logs deep!", { structuredData: true });
+  response.send("Hello from Firebase!");
+});
