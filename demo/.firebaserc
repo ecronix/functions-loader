@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "functions-demo2-eb82c",
+    "dev": "functionsdemo-46685"
+  },
+  "targets": {},
+  "etags": {}
+}
